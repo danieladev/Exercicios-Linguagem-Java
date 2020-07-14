@@ -1,2 +1,2 @@
-# Exercicios-Linguagem-Java-2
+# Exercícios Linguagem Java
 Exercícios com resolução na linguagem Java.
